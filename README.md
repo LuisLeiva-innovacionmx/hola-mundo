@@ -1,2 +1,2 @@
 # hola-mundo
-Mi prier repositorio de prueba - Luis Leiva
+Mi primer repositorio de prueba - Luis Leiva
